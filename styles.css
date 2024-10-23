@@ -3,3 +3,7 @@ body{
 background: black;
 
 }
+
+header{
+    border: solid 6px grey;
+}
